@@ -5,7 +5,7 @@
 - 此EFI不含三码 实际使用时请自行使用[OCAT](https://github.com/ic005k/OCAuxiliaryTools)生成
 - 此EFI仅在旧版本主板V2.4版(没有USB 3.0前置插针)上测试通过，新版的V3.0版本未测试。
 
-![](Image.png)
+![](Image.jpg)
 ### 配置清单
 |类型|型号|规格|
 |---|---|---|
